@@ -14,9 +14,9 @@
     
     <item>
       <title>Python basics</title>
-      <link>https://MLxDB.github.io/course/data-science/python/</link>
+      <link>https://MLxDB.github.io/project/data-science/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/data-science/python/</guid>
+      <guid>https://MLxDB.github.io/project/data-science/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Python basics</title>
-      <link>https://MLxDB.github.io/course/robotics/python/</link>
+      <link>https://MLxDB.github.io/project/robotics/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/robotics/python/</guid>
+      <guid>https://MLxDB.github.io/project/robotics/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://MLxDB.github.io/course/data-science/visualization/</link>
+      <link>https://MLxDB.github.io/project/data-science/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/data-science/visualization/</guid>
+      <guid>https://MLxDB.github.io/project/data-science/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://MLxDB.github.io/course/robotics/visualization/</link>
+      <link>https://MLxDB.github.io/project/robotics/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/robotics/visualization/</guid>
+      <guid>https://MLxDB.github.io/project/robotics/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -146,9 +146,9 @@
     
     <item>
       <title>Statistics</title>
-      <link>https://MLxDB.github.io/course/data-science/stats/</link>
+      <link>https://MLxDB.github.io/project/data-science/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/data-science/stats/</guid>
+      <guid>https://MLxDB.github.io/project/data-science/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -174,9 +174,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Statistics</title>
-      <link>https://MLxDB.github.io/course/robotics/stats/</link>
+      <link>https://MLxDB.github.io/project/robotics/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/course/robotics/stats/</guid>
+      <guid>https://MLxDB.github.io/project/robotics/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
