@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zheng Wang | ML for Data Management</title>
+    <title>Zheng Wang | ML for Database</title>
     <link>https://MLxDB.github.io/author/zheng-wang/</link>
       <atom:link href="https://MLxDB.github.io/author/zheng-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Wang</description>
