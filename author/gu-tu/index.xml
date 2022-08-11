@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gu Tu | ML for Data Management</title>
+    <link>https://MLxDB.github.io/author/gu-tu/</link>
+      <atom:link href="https://MLxDB.github.io/author/gu-tu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gu Tu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://MLxDB.github.io/author/gu-tu/avatar_huba4addf2a98cbcdc91b63cbe3c778e47_42057_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Gu Tu</title>
+      <link>https://MLxDB.github.io/author/gu-tu/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZHAO Yue | ML for Data Management</title>
+    <link>https://MLxDB.github.io/author/zhao-yue/</link>
+      <atom:link href="https://MLxDB.github.io/author/zhao-yue/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZHAO Yue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://MLxDB.github.io/author/zhao-yue/avatar_hu148e8b3052e181beb50b1422972ef977_2729585_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>ZHAO Yue</title>
+      <link>https://MLxDB.github.io/author/zhao-yue/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yin Ziqi | ML for Data Management</title>
+    <link>https://MLxDB.github.io/author/yin-ziqi/</link>
+      <atom:link href="https://MLxDB.github.io/author/yin-ziqi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yin Ziqi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://MLxDB.github.io/author/yin-ziqi/avatar_hu1ec37d41bab3cf8b65dd1d8ab41871f1_15841_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Yin Ziqi</title>
+      <link>https://MLxDB.github.io/author/yin-ziqi/</link>
+    </image>
+    
+  </channel>
+</rss>
