@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MENG Zizhong | ML for Database</title>
+    <title>MENG Zizhong | ML for Data Management</title>
     <link>https://MLxDB.github.io/author/meng-zizhong/</link>
       <atom:link href="https://MLxDB.github.io/author/meng-zizhong/index.xml" rel="self" type="application/rss+xml" />
     <description>MENG Zizhong</description>
