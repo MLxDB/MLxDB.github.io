@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gu Tu | ML for Database</title>
+    <title>GU Tu | ML for Database</title>
     <link>https://MLxDB.github.io/author/gu-tu/</link>
       <atom:link href="https://MLxDB.github.io/author/gu-tu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gu Tu</description>
+    <description>GU Tu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://MLxDB.github.io/author/gu-tu/avatar_hu2ab1f54750983de9614d5441481818ef_40288_270x270_fill_q75_lanczos_center.jpeg</url>
-      <title>Gu Tu</title>
+      <title>GU Tu</title>
       <link>https://MLxDB.github.io/author/gu-tu/</link>
     </image>
     
