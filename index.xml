@@ -32,7 +32,7 @@
       <link>https://MLxDB.github.io/post/22-11-15-sigmod-23/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://MLxDB.github.io/post/22-11-15-sigmod-23/</guid>
-      <description>&lt;p&gt;Congratulations to Gu Tu for publishing the paper &amp;ldquo;Effectively Learning Spatial Indexes with a Support for Updates&amp;rdquo; at VLDB 2023.&lt;/p&gt;
+      <description>&lt;p&gt;Congratulations to Gu Tu for publishing the paper &amp;ldquo;Effectively Learning Spatial Indexes with a Support for Updates&amp;rdquo; at SIGMOD 2023.&lt;/p&gt;
 &lt;p&gt;Learned indices have been proposed to replace classic index structures
 like B-Tree with machine learning (ML) models. They require
 to replace both the indices and query processing algorithms currently
