@@ -28,6 +28,38 @@
     </item>
     
     <item>
+      <title>Paper on Learned Index Selection accepted at VLDB 2023</title>
+      <link>https://MLxDB.github.io/post/22-08-15-vldb-23/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/22-08-15-vldb-23/</guid>
+      <description>&lt;p&gt;Congratulations to Shi Jiachen for publishing the paper &amp;ldquo;Learned Index Benefits: Machine Learning Based Index Performance Estimation&amp;rdquo; at VLDB 2023.&lt;/p&gt;
+&lt;p&gt;Index selection remains one of the most challenging problems in
+relational database management systems. To find an optimum index configuration for a workload, accurately and efficiently quantifying
+the benefits of each candidate index configuration is indispensable. As
+materializing each index configuration candidate and physically executing
+queries are infeasible, most of index tuners rely on the cost
+estimations from optimizer with &amp;ldquo;what-if&amp;rdquo; API. However, &amp;ldquo;what-if&amp;rdquo;
+based index benefit estimations have the following two limitations.
+Firstly, they generate significant errors, which compromise index
+recommendation quality. Secondly, generating query plans and
+benefit estimations for each candidate index configuration takes
+a considerable amount of time. To address the two challenges in
+index selection, we propose an effective end-to-end machine learning
+based index benefit estimator. In particular, we propose novel feature
+extraction and encoding techniques that do not rely on &amp;ldquo;what-if&amp;rdquo;
+call to generate query plan for each index configuration candidate.
+In addition, we design an attention mechanism to address index
+interaction issue and aggregate the impacts of different query operations.
+Finally, we leverage transfer learning technique to improve
+the estimator’s learning ability for adaption to new database. Comprehensive experiments are conducted on different workloads, and
+extensive experimental results show that our proposed method
+outperforms &amp;ldquo;what-if&amp;rdquo; based index benefit estimations in terms of
+accuracy and efficiency. In addition, integrating our method into
+existing index selection algorithms can significantly improve index
+recommendation quality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
       <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
