@@ -5,12 +5,35 @@
     <link>https://MLxDB.github.io/post/</link>
       <atom:link href="https://MLxDB.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://MLxDB.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Paper on Learned R-tree accepted at SIGMOD 2023</title>
+      <link>https://MLxDB.github.io/post/22-11-15-sigmod-23/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/22-11-15-sigmod-23/</guid>
+      <description>&lt;p&gt;Congratulations to Gu Tu for publishing the paper &amp;ldquo;Effectively Learning Spatial Indexes with a Support for Updates&amp;rdquo; at VLDB 2023.&lt;/p&gt;
+&lt;p&gt;Learned indices have been proposed to replace classic index structures
+like B-Tree with machine learning (ML) models. They require
+to replace both the indices and query processing algorithms currently
+deployed by the databases, and such a radical departure is
+likely to encounter challenges and obstacles. In contrast, we propose
+a fundamentally different way of using ML techniques to build
+a better R-Tree without the need to change the structure or query
+processing algorithms of traditional R-Tree. Specifically, we develop
+reinforcement learning (RL) based models to decide how to choose
+a subtree for insertion and how to split a node when building and
+updating an R-Tree, instead of relying on hand-crafted heuristic
+rules currently used by the R-Tree and its variants. Experiments on
+real and synthetic datasets with up to more than 100 million spatial
+objects show that our RL based index outperforms the R-Tree and
+its variants in terms of query processing time.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Paper on Learned Index Selection accepted at VLDB 2023</title>

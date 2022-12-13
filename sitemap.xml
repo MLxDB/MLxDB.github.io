@@ -10,7 +10,9 @@
   <url>
     <loc>https://MLxDB.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/post/</loc><lastmod>2022-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://MLxDB.github.io/post/</loc><lastmod>2022-11-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/22-11-15-sigmod-23/</loc><lastmod>2022-11-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/post/22-08-15-vldb-23/</loc><lastmod>2022-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,15 +56,19 @@
   <url>
     <loc>https://MLxDB.github.io/author/jiachen-shi/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://MLxDB.github.io/publication/vldb23-index/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://MLxDB.github.io/publication/vldb22-query-former/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/xiaoli-li/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/yue-zhao/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/publication-type/3/</loc><lastmod>2021-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/publication/rlr-tree/</loc><lastmod>2021-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/author/cheng-long/</loc><lastmod>2021-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</loc><lastmod>2021-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/kaiyu-feng/</loc><lastmod>2021-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

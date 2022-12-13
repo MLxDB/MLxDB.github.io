@@ -28,6 +28,29 @@
     </item>
     
     <item>
+      <title>Paper on Learned R-tree accepted at SIGMOD 2023</title>
+      <link>https://MLxDB.github.io/post/22-11-15-sigmod-23/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/22-11-15-sigmod-23/</guid>
+      <description>&lt;p&gt;Congratulations to Gu Tu for publishing the paper &amp;ldquo;Effectively Learning Spatial Indexes with a Support for Updates&amp;rdquo; at VLDB 2023.&lt;/p&gt;
+&lt;p&gt;Learned indices have been proposed to replace classic index structures
+like B-Tree with machine learning (ML) models. They require
+to replace both the indices and query processing algorithms currently
+deployed by the databases, and such a radical departure is
+likely to encounter challenges and obstacles. In contrast, we propose
+a fundamentally different way of using ML techniques to build
+a better R-Tree without the need to change the structure or query
+processing algorithms of traditional R-Tree. Specifically, we develop
+reinforcement learning (RL) based models to decide how to choose
+a subtree for insertion and how to split a node when building and
+updating an R-Tree, instead of relying on hand-crafted heuristic
+rules currently used by the R-Tree and its variants. Experiments on
+real and synthetic datasets with up to more than 100 million spatial
+objects show that our RL based index outperforms the R-Tree and
+its variants in terms of query processing time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Paper on Learned Index Selection accepted at VLDB 2023</title>
       <link>https://MLxDB.github.io/post/22-08-15-vldb-23/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
@@ -95,6 +118,20 @@ query plan representation model with a tree-structured Transformer architecture.
     </item>
     
     <item>
+      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
+      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>QueryFormer: a tree transformer model for query plan representation</title>
       <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -109,10 +146,10 @@ query plan representation model with a tree-structured Transformer architecture.
     </item>
     
     <item>
-      <title>A Reinforcement Learning Based R-Tree for Spatial Data Indexing in Dynamimc Environments</title>
-      <link>https://MLxDB.github.io/publication/rlr-tree/</link>
+      <title>Effectively Learning Spatial Indexes with a Support for Updates</title>
+      <link>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/rlr-tree/</guid>
+      <guid>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

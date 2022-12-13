@@ -27,6 +27,20 @@
     </item>
     
     <item>
+      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
+      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>QueryFormer: a tree transformer model for query plan representation</title>
       <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -41,10 +55,10 @@
     </item>
     
     <item>
-      <title>A Reinforcement Learning Based R-Tree for Spatial Data Indexing in Dynamimc Environments</title>
-      <link>https://MLxDB.github.io/publication/rlr-tree/</link>
+      <title>Effectively Learning Spatial Indexes with a Support for Updates</title>
+      <link>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/rlr-tree/</guid>
+      <guid>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
