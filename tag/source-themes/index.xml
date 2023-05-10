@@ -22,10 +22,10 @@
     </item>
     
     <item>
-      <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
-      <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod22-sam/</guid>
+      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
+      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,10 +36,10 @@
     </item>
     
     <item>
-      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
-      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
+      <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod22-sam/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -37,6 +37,20 @@
     </item>
     
     <item>
+      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
+      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Paper on Learned R-tree accepted at SIGMOD 2023</title>
       <link>https://MLxDB.github.io/post/22-11-15-sigmod-23/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
@@ -124,20 +138,6 @@ Representation&amp;rdquo; at VLDB 2022.&lt;/p&gt;
 &lt;p&gt;Machine learning has become a prominent method in many database optimization problems such as cost estimation, index selection and query optimization. Translating query execution plans into their vectorized representations is non-trivial. Recently, several query plan representation methods have been proposed. However, they have two limitations. First, they do not fully utilize readily available database statistics in the representation, which characterizes the data distribution. Second, they typically have difficulty in modeling long paths of information flow in a query plan, and capturing parent-children dependency between operators.&lt;/p&gt;
 &lt;p&gt;To tackle these limitations, we propose QueryFormer, a learning-based
 query plan representation model with a tree-structured Transformer architecture. In particular, we propose a novel scheme to integrate histograms obtained from database systems into query plan encoding. In addition, to effectively capture the information flow following the tree structure of a query plan, we develop a tree-structured model with the attention mechanism. We integrate QueryFormer into four machine learning models, each for a database optimization task, and experimental results show that QueryFormer is able to improve performance of these models significantly.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
-      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
