@@ -72,12 +72,6 @@
   <url>
     <loc>https://MLxDB.github.io/post/22-03-01-vldb-22/</loc><lastmod>2022-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/author/chunyan-miao/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/publication/vldb22-query-former/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/yue-zhao/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/author/rong-zhu/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/shuai-ma/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -94,6 +88,8 @@
   <url>
     <loc>https://MLxDB.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://MLxDB.github.io/author/chunyan-miao/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://MLxDB.github.io/author/cong-gao/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/gu-tu/</loc><changefreq>weekly</changefreq></url>
@@ -108,6 +104,8 @@
   <url>
     <loc>https://MLxDB.github.io/tag/preface/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://MLxDB.github.io/publication/vldb22-query-former/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://MLxDB.github.io/author/shi-jiachen/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/tour/</loc><changefreq>weekly</changefreq></url>
@@ -115,5 +113,7 @@
     <loc>https://MLxDB.github.io/author/yang-jingyi/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/yin-ziqi/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/yue-zhao/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/zhao-yue/</loc><changefreq>weekly</changefreq></url></urlset>
