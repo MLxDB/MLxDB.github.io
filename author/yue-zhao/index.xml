@@ -5,7 +5,7 @@
     <link>https://MLxDB.github.io/author/yue-zhao/</link>
       <atom:link href="https://MLxDB.github.io/author/yue-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yue Zhao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Yue Zhao</title>
@@ -15,7 +15,7 @@
     <item>
       <title>QueryFormer: a tree transformer model for query plan representation</title>
       <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://MLxDB.github.io/publication/vldb22-query-former/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
