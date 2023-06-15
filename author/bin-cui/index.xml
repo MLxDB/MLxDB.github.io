@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zheng Wang | ML for Data Management</title>
-    <link>https://MLxDB.github.io/author/zheng-wang/</link>
-      <atom:link href="https://MLxDB.github.io/author/zheng-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zheng Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <title>Bin Cui | ML for Data Management</title>
+    <link>https://MLxDB.github.io/author/bin-cui/</link>
+      <atom:link href="https://MLxDB.github.io/author/bin-cui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Cui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
-      <title>Zheng Wang</title>
-      <link>https://MLxDB.github.io/author/zheng-wang/</link>
+      <title>Bin Cui</title>
+      <link>https://MLxDB.github.io/author/bin-cui/</link>
     </image>
-    
-    <item>
-      <title>The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Towards Designing and Learning Piecewise Space-Filling Curves</title>
