@@ -5,12 +5,22 @@
     <link>https://MLxDB.github.io/post/</link>
       <atom:link href="https://MLxDB.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://MLxDB.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Paper on Learned Space-Filling Curve accepted at VLDB 2023</title>
+      <link>https://MLxDB.github.io/post/23-05-01-vldb-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/23-05-01-vldb-23/</guid>
+      <description>&lt;p&gt;Congratulations to Jiangneng for publishing the paper &amp;ldquo;Towards Designing and Learning Piecewise Space-Filling Curves&amp;rdquo; at VLDB 2023.&lt;/p&gt;
+&lt;p&gt;To index multi-dimensional data, space-filling curves (SFCs) have
+been used to map the data to one dimension, and then a one dimensional indexing method such as the B-tree is used to index the mapped data. The existing SFCs all adopt a single mapping scheme for the whole data space. However, a single mapping scheme often does not performwell on all the data space. In this paper,we propose a new type of SFC called piecewise SFCs, which adopts different mapping schemes for different data subspaces. Specifically, we propose a data structure called Bit Merging tree (BMTree), which can generate data subspaces and their SFCs simultaneously and achieve desirable properties of the SFC for the whole data space. Furthermore, we develop a reinforcement learning based solution to build the BMTree, aiming to achieve excellent query performance. Extensive experiments show that our proposed method outperforms existing SFCs in terms of query performance.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Paper on Learned R-tree accepted at SIGMOD 2023</title>
