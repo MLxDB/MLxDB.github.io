@@ -5,7 +5,7 @@
     <link>https://MLxDB.github.io/author/jingyi-yang/</link>
       <atom:link href="https://MLxDB.github.io/author/jingyi-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingyi Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Jingyi Yang</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>PLATON: Top-down R-tree Packing with Learned Partition Policy</title>
-      <link>https://MLxDB.github.io/publication/sigmod24-platon/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod24-platon/</guid>
+      <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
+      <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod22-sam/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -27,10 +27,10 @@
     </item>
     
     <item>
-      <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
-      <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod22-sam/</guid>
+      <title>PLATON: Top-down R-tree Packing with Learned Partition Policy</title>
+      <link>https://MLxDB.github.io/publication/sigmod24-platon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod24-platon/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
