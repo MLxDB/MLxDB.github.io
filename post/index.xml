@@ -5,12 +5,39 @@
     <link>https://MLxDB.github.io/post/</link>
       <atom:link href="https://MLxDB.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://MLxDB.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Paper on learned R-tree packing accepted at SIGMOD 2024</title>
+      <link>https://MLxDB.github.io/post/23-08-26-sigmod-24-platon/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/23-08-26-sigmod-24-platon/</guid>
+      <description>&lt;p&gt;Congratulations to Jingyi for publishing the paper &amp;ldquo;Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes&amp;rdquo; at SIGMOD 2024.&lt;/p&gt;
+&lt;p&gt;The exponential growth of spatial data poses new challenges to the performance of spatial databases. Spatial indexes like R-tree greatly accelerate the query performance and can be effectively constructed through packing, i.e., loading all data into the index at once. However, existing R-tree packing methods rely on a set of fixed heuristic rules, which may not be suitable for different data distributions and workload patterns. To address the limitations of existing R-tree packing methods, we propose PLATON, a top-down R-tree packing method with learned partition policy that explicitly optimizes the query performance with regard to the given data and workload instance. We develop a learned partition policy based on Monte Carlo Tree Search and carefully make design choices for the MCTS exploration strategy and simulation strategy to improve algorithm convergence. We propose a divide and conquer strategy and two optimization techniques, early termination and level-wise sampling, to drastically reduce the MCTS algorithm’s time complexity and make it a linear-time algorithm. Experiments on both synthetic and real-world datasets demonstrate the superior performance of PLATON over existing R-tree variants and recently proposed learned/workload-aware spatial indexes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper on multi-query optimization accepted at SIGMOD 2024</title>
+      <link>https://MLxDB.github.io/post/23-08-26-sigmod-24-lemo/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/23-08-26-sigmod-24-lemo/</guid>
+      <description>&lt;p&gt;Congratulations to Songsong, Yile for publishing the paper &amp;ldquo;Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries&amp;rdquo; at SIGMOD 2024.&lt;/p&gt;
+&lt;p&gt;With the expansion of modern database services, multi-user access has become a crucial feature in various practical application scenarios, including enterprise applications and e-commerce platforms. However, if multiple users submit queries within a short time frame, it can result in potential issues such as redundant computation and query concurrency. Unfortunately, most existing multi-query optimization methods, which aim to enhance query processing efficiency, have not adequately addressed these two problems, especially in the setting where multiple queries are being executed concurrently. To this end, we propose a novel method named Lemo for the multi-query optimization problem. Specifically, we propose a novel value network to predict latencies of concurrent queries as the foundation model for query plan generation. Furthermore, we introduce a shared buffer manager component to cache the intermediate results of sub-queries. The shared buffer manager applies a novel replacement policy to maintain the cached buffer with the objective of maximizing the opportunity for the reuse of the cached sub-queries. Based on the shared buffer, our proposed value network can incorporate the cached results into cost estimation to further guide Lemo in generating query plans, thus avoiding redundant computation. Lemo has been integrated into PostgreSQL and experiments conducted on real datasets with PostgreSQL show that it outperforms all the baselines in efficiency.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper on selectivity estimation for set-valued data accepted at SIGMOD 2024</title>
+      <link>https://MLxDB.github.io/post/23-08-26-sigmod-24-set/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/23-08-26-sigmod-24-set/</guid>
+      <description>&lt;p&gt;Congratulations to Zizhong for publishing the paper &amp;ldquo;Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes&amp;rdquo; at SIGMOD 2024.&lt;/p&gt;
+&lt;p&gt;Selectivity estimation aims to estimate the size of query results size accurately and efficiently. Despite being a well-researched area for decades, most existing estimators are designed to handle comparison predicates over numeric and categorical data. Nevertheless, Set-valued data are ubiquitous in many applications such as information retrieval and recommendation systems. However, these estimators may not be effective for handling predicates over set-valued data. In this work, we presents novel techniques for selectivity estimation on queries involving predicates over set-valued attributes. We first propose the set-valued column factorization problem, whereby each each set-valued column is converted to multiple numeric subcolumns, and set containment predicates are converted to numeric comparison predicates. This enables us to leverage any existing estimator to perform selectivity estimation. We then develop two methods for column factorization and query conversion, namely ST and ST-hist. We integrate ST and ST-hist into three estimators, Postgres, Neurocard, and DeepDB. We then conduct a comprehensive empirical analysis by comparing our approach against three baselines across three different datasets. The experimental results demonstrate that our methods exhibit superior estimation accuracy while maintaining high efficiency compared to the baseline techniques.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Paper on Learned Space-Filling Curve accepted at VLDB 2023</title>
