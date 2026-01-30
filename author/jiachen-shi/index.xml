@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiachen Shi | ML for Data Management</title>
+    <title>Jiachen Shi | Data management and AI</title>
     <link>https://MLxDB.github.io/author/jiachen-shi/</link>
       <atom:link href="https://MLxDB.github.io/author/jiachen-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiachen Shi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Jiachen Shi</title>
       <link>https://MLxDB.github.io/author/jiachen-shi/</link>
     </image>
+    
+    <item>
+      <title>ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities</title>
+      <link>https://MLxDB.github.io/publication/corr25-arcade/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-arcade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs</title>
+      <link>https://MLxDB.github.io/publication/corr25-maadvisor/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-maadvisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEXT: A New Secondary Index Framework for LSM-based Data Storage</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-next/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-next/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>

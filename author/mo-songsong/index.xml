@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MO Songsong | ML for Data Management</title>
+    <title>MO Songsong | Data management and AI</title>
     <link>https://MLxDB.github.io/author/mo-songsong/</link>
       <atom:link href="https://MLxDB.github.io/author/mo-songsong/index.xml" rel="self" type="application/rss+xml" />
     <description>MO Songsong</description>

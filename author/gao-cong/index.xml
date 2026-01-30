@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gao Cong | ML for Data Management</title>
+    <title>Gao Cong | Data management and AI</title>
     <link>https://MLxDB.github.io/author/gao-cong/</link>
       <atom:link href="https://MLxDB.github.io/author/gao-cong/index.xml" rel="self" type="application/rss+xml" />
     <description>Gao Cong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
       <title>Gao Cong</title>
       <link>https://MLxDB.github.io/author/gao-cong/</link>
     </image>
+    
+    <item>
+      <title>TATA: An Efficient Framework for Task Transfer in Query Plan Representation</title>
+      <link>https://MLxDB.github.io/publication/pvldb26-tata/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb26-tata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities</title>
+      <link>https://MLxDB.github.io/publication/corr25-arcade/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-arcade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data</title>
+      <link>https://MLxDB.github.io/publication/corr25-fdabench/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-fdabench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs</title>
+      <link>https://MLxDB.github.io/publication/corr25-maadvisor/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-maadvisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-bttree/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-bttree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAMAL: Optimizing LSM-trees via Active Learning</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-camal/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-camal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-deg/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-deg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEXT: A New Secondary Index Framework for LSM-based Data Storage</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-next/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoBloom: Revisiting Lightweight Models for Geographic Information Retrieval</title>
+      <link>https://MLxDB.github.io/publication/pvldb25-geobloom/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb25-geobloom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</title>
+      <link>https://MLxDB.github.io/publication/pvldb25-llm-r2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb25-llm-r2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankPQO: Learning-to-Rank for Parametric Query Optimization</title>
+      <link>https://MLxDB.github.io/publication/pvldb25-rankpqo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb25-rankpqo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning for Databases: Foundations, Paradigms, and Open problems</title>

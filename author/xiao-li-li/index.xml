@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao-Li Li | Data management and AI</title>
+    <link>https://MLxDB.github.io/author/xiao-li-li/</link>
+      <atom:link href="https://MLxDB.github.io/author/xiao-li-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao-Li Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiao-Li Li</title>
+      <link>https://MLxDB.github.io/author/xiao-li-li/</link>
+    </image>
+    
+    <item>
+      <title>NEXT: A New Secondary Index Framework for LSM-based Data Storage</title>
+      <link>https://MLxDB.github.io/publication/sigmod25-next/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod25-next/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

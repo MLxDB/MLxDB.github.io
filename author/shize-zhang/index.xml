@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shize Zhang | Data management and AI</title>
+    <link>https://MLxDB.github.io/author/shize-zhang/</link>
+      <atom:link href="https://MLxDB.github.io/author/shize-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shize Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
+      <title>Shize Zhang</title>
+      <link>https://MLxDB.github.io/author/shize-zhang/</link>
+    </image>
+    
+    <item>
+      <title>FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data</title>
+      <link>https://MLxDB.github.io/publication/corr25-fdabench/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/corr25-fdabench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

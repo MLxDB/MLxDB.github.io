@@ -4,41 +4,137 @@
   
   
   <url>
-    <loc>https://MLxDB.github.io/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/post/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://MLxDB.github.io/tag/acceptance/</loc><lastmod>2026-01-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/</loc><lastmod>2026-01-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/25-01-01-pvldb-26-tata/</loc><lastmod>2026-01-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/tags/</loc><lastmod>2026-01-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication-type/1/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/authors/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/gao-cong/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication_types/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/songsong-mo/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/pvldb26-tata/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/yue-zhao/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/corr25-arcade/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/corr25-fdabench/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/haitao-yuan/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/jiachen-shi/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/jingyi-yang/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/jinwei-zhu/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/kunhao-shi/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/shifu-li/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/shize-zhang/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/wei-dong/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/xuchen-ding/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/zihao-yu/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/ziting-wang/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/hao-zhang/</loc><lastmod>2025-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/corr25-maadvisor/</loc><lastmod>2025-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/yu-rong/</loc><lastmod>2025-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/zhaodonghui-li/</loc><lastmod>2025-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/sigmod25-bttree/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/sigmod25-camal/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/sigmod25-deg/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/jianyang-gao/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/kaiyu-feng/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/long-cheng/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/sigmod25-next/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/25-06-01-sigmod-25-bttree/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/pasquale-balsebre/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/rui-zhang/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/siqiang-luo/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/tu-gu/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/weiping-yu/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/xiao-li-li/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/ziqi-yin/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/project/ai4db/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/chuanhui-yang/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/project/db4ai/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/pvldb25-geobloom/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/huiming-wang/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/lidong-bing/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/pvldb25-llm-r2/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/25-01-01-pvldb-25-llm-r2/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/post/25-01-01-pvldb-25-rankpqo/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/project/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/quanqing-xu/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/publication/pvldb25-rankpqo/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/yi-li/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://MLxDB.github.io/author/zhifeng-bao/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/post/24-05-02-sigmod-24-tutorial/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/publication-type/1/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/authors/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/post/24-05-01-vldb-24-evaluation/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/gao-cong/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/jingyi-yang/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/publication/sigmod24-tutorial/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/publication_types/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/publication/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/tag/source-themes/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/tags/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/yue-zhao/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/publication/vldb24-evaluation/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/zhaodonghui-li/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/hao-wang/</loc><lastmod>2023-08-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -60,13 +156,9 @@
   <url>
     <loc>https://MLxDB.github.io/author/yile-chen/</loc><lastmod>2023-08-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/author/zhifeng-bao/</loc><lastmod>2023-08-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/author/zizhong-meng/</loc><lastmod>2023-08-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/cheng-long/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/kaiyu-feng/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/post/23-05-01-vldb-23/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -74,15 +166,11 @@
   <url>
     <loc>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://MLxDB.github.io/author/tu-gu/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://MLxDB.github.io/author/zheng-wang/</loc><lastmod>2023-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/bin-cui/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/han-mao-kiah/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/author/jiachen-shi/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/jiangneng-li/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -99,8 +187,6 @@
     <loc>https://MLxDB.github.io/tag/current/</loc><lastmod>2022-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/author/peizhi-wu/</loc><lastmod>2022-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://MLxDB.github.io/project/</loc><lastmod>2022-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://MLxDB.github.io/project/sam/</loc><lastmod>2022-06-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acceptance | Data management and AI</title>
+    <link>https://MLxDB.github.io/tag/acceptance/</link>
+      <atom:link href="https://MLxDB.github.io/tag/acceptance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acceptance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url>
+      <title>Acceptance</title>
+      <link>https://MLxDB.github.io/tag/acceptance/</link>
+    </image>
+    
+    <item>
+      <title>Paper on Query Plan Representation accepted at PVLDB 2026</title>
+      <link>https://MLxDB.github.io/post/25-01-01-pvldb-26-tata/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/25-01-01-pvldb-26-tata/</guid>
+      <description>&lt;p&gt;TATA: An Efficient Framework for Task Transfer in Query Plan Representation. Yue Zhao, Songsong Mo, Gao Cong.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Learned Index for Trajectory Data accepted at SIGMOD 2025</title>
+      <link>https://MLxDB.github.io/post/25-06-01-sigmod-25-bttree/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/25-06-01-sigmod-25-bttree/</guid>
+      <description>&lt;p&gt;BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data. Tu Gu, Kaiyu Feng, Jingyi Yang, Gao Cong, Long Cheng, Rui Zhang.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on LLM-enhanced Query Rewrite accepted at PVLDB 2025</title>
+      <link>https://MLxDB.github.io/post/25-01-01-pvldb-25-llm-r2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/25-01-01-pvldb-25-llm-r2/</guid>
+      <description>&lt;p&gt;LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency. Zhaodonghui Li, Haitao Yuan, Huiming Wang, Gao Cong, Lidong Bing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Parametric Query Optimization accepted at PVLDB 2025</title>
+      <link>https://MLxDB.github.io/post/25-01-01-pvldb-25-rankpqo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/post/25-01-01-pvldb-25-rankpqo/</guid>
+      <description>&lt;p&gt;RankPQO: Learning-to-Rank for Parametric Query Optimization. Songsong Mo, Yue Zhao, Zhifeng Bao, Quanqing Xu, Chuanhui Yang, Gao Cong.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
