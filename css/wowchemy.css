@@ -9765,17 +9765,17 @@ div.chart {
   body.page-type-project .universal-wrapper,
   body.page-type-project .article-container,
   body.page-type-project .page-header .container {
-    max-width: 1200px !important;
+    max-width: 80% !important;
     /* Thinner width for projects */
-    width: 1200px !important; }
+    width: 80% !important; }
   /* Target post (news) pages */
   body.page-type-post .container,
   body.page-type-post .universal-wrapper,
   body.page-type-post .article-container,
   body.page-type-post .page-header .container {
-    max-width: 1200px !important;
+    max-width: 80% !important;
     /* Thinner width for news */
-    width: 1200px !important; } }
+    width: 80% !important; } }
 
 /* Optional: If using the 'minimal' theme, you might want to ensure the body content uses this space */
 .page-body {
