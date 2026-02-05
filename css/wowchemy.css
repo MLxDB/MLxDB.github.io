@@ -9739,44 +9739,4 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
-/* Custom CSS to increase content width */
-/* Force container to be wider on large screens (Global default: 96%) */
-@media (min-width: 1200px) {
-  .container,
-  .container-lg,
-  .container-md,
-  .container-sm,
-  .container-xl {
-    max-width: 96% !important;
-    /* Global default */
-    width: 96% !important; } }
-
-/* Ensure specific Wowchemy wrappers also respect the width */
-.universal-wrapper,
-.article-container,
-.page-header .container {
-  max-width: 96% !important;
-  width: 96% !important; }
-
-/* Reduce width for Project and News (Post) pages */
-@media (min-width: 1200px) {
-  /* Target project pages */
-  body.page-type-project .container,
-  body.page-type-project .universal-wrapper,
-  body.page-type-project .article-container,
-  body.page-type-project .page-header .container {
-    max-width: 80% !important;
-    /* Thinner width for projects */
-    width: 80% !important; }
-  /* Target post (news) pages */
-  body.page-type-post .container,
-  body.page-type-post .universal-wrapper,
-  body.page-type-post .article-container,
-  body.page-type-post .page-header .container {
-    max-width: 80% !important;
-    /* Thinner width for news */
-    width: 80% !important; } }
-
-/* Optional: If using the 'minimal' theme, you might want to ensure the body content uses this space */
-.page-body {
-  width: 100%; }
+/* Custom SCSS - Currently empty */
