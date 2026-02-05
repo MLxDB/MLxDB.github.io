@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoli Li | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/xiaoli-li/</link>
-      <atom:link href="https://MLxDB.github.io/author/xiaoli-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiaoli-li/</link>
+      <atom:link href="http://localhost:1313/author/xiaoli-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoli Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Xiaoli Li</title>
-      <link>https://MLxDB.github.io/author/xiaoli-li/</link>
+      <link>http://localhost:1313/author/xiaoli-li/</link>
     </image>
     
     <item>
       <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
-      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <link>http://localhost:1313/publication/vldb23-index/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <guid>http://localhost:1313/publication/vldb23-index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

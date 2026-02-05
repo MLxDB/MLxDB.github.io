@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preface | Data management and AI</title>
-    <link>https://MLxDB.github.io/tag/preface/</link>
-      <atom:link href="https://MLxDB.github.io/tag/preface/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/preface/</link>
+      <atom:link href="http://localhost:1313/tag/preface/index.xml" rel="self" type="application/rss+xml" />
     <description>Preface</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Preface</title>
-      <link>https://MLxDB.github.io/tag/preface/</link>
+      <link>http://localhost:1313/tag/preface/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>https://MLxDB.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/project/</guid>
+      <guid>http://localhost:1313/project/</guid>
       <description>&lt;h2 id=&#34;overview-of-our-research&#34;&gt;Overview of Our Research&lt;/h2&gt;
 &lt;p&gt;Our research focuses on &lt;strong&gt;Data+AI&lt;/strong&gt;, bridging the gap between data management and artificial intelligence. We explore two main directions: &lt;strong&gt;DB4AI&lt;/strong&gt; (Database for AI) and &lt;strong&gt;AI4DB&lt;/strong&gt; (AI for Database).&lt;/p&gt;
 &lt;style&gt;
@@ -219,26 +219,26 @@
 
         
         &lt;div class=&#34;field-box db4ai-box&#34;&gt;
-            &lt;a href=&#34;https://MLxDB.github.io/project/#db4ai&#34; class=&#34;field-title&#34;&gt;DB4AI&lt;/a&gt;
+            &lt;a href=&#34;http://localhost:1313/project/#db4ai&#34; class=&#34;field-title&#34;&gt;DB4AI&lt;/a&gt;
 
             &lt;div class=&#34;db4ai-content&#34;&gt;
                 
                 &lt;div class=&#34;db4ai-grid&#34;&gt;
                     
                     &lt;div class=&#34;grid-row&#34;&gt;
-                        &lt;a href=&#34;https://MLxDB.github.io/project/#semantic-queries&#34; class=&#34;subtopic-box&#34;&gt;
+                        &lt;a href=&#34;http://localhost:1313/project/#semantic-queries&#34; class=&#34;subtopic-box&#34;&gt;
                             Semantic Queries &amp; Data Agent
                         &lt;/a&gt;
                     &lt;/div&gt;
                     
                     &lt;div class=&#34;grid-row&#34;&gt;
-                        &lt;a href=&#34;https://MLxDB.github.io/project/#hybrid-search&#34; class=&#34;subtopic-box&#34;&gt;
+                        &lt;a href=&#34;http://localhost:1313/project/#hybrid-search&#34; class=&#34;subtopic-box&#34;&gt;
                             Hybrid Search
                         &lt;/a&gt;
                     &lt;/div&gt;
                     
                     &lt;div class=&#34;grid-row&#34;&gt;
-                        &lt;a href=&#34;https://MLxDB.github.io/project/#lsm-storage&#34; class=&#34;subtopic-box&#34;&gt;
+                        &lt;a href=&#34;http://localhost:1313/project/#lsm-storage&#34; class=&#34;subtopic-box&#34;&gt;
                             Multimodal LSM Storage
                         &lt;/a&gt;
                     &lt;/div&gt;
@@ -246,7 +246,7 @@
 
                 
                 &lt;div class=&#34;arcade-container&#34;&gt;
-                    &lt;a href=&#34;https://MLxDB.github.io/project/#arcade-system&#34; class=&#34;arcade-box&#34;&gt;
+                    &lt;a href=&#34;http://localhost:1313/project/#arcade-system&#34; class=&#34;arcade-box&#34;&gt;
                         Real-time AI&amp;#8209;powered Multimodal Analytics System: ARCADE
                     &lt;/a&gt;
                 &lt;/div&gt;
@@ -256,23 +256,23 @@
 
         
         &lt;div class=&#34;field-box ai4db-box&#34;&gt;
-            &lt;a href=&#34;https://MLxDB.github.io/project/#ai4db&#34; class=&#34;field-title&#34;&gt;AI4DB&lt;/a&gt;
+            &lt;a href=&#34;http://localhost:1313/project/#ai4db&#34; class=&#34;field-title&#34;&gt;AI4DB&lt;/a&gt;
             &lt;div class=&#34;subtopic-grid&#34;&gt;
                 
                 &lt;div class=&#34;grid-row&#34;&gt;
-                    &lt;a href=&#34;https://MLxDB.github.io/project/#query-optimization&#34; class=&#34;subtopic-box&#34;&gt;
+                    &lt;a href=&#34;http://localhost:1313/project/#query-optimization&#34; class=&#34;subtopic-box&#34;&gt;
                         Query Optimization
                     &lt;/a&gt;
                 &lt;/div&gt;
                 
                 &lt;div class=&#34;grid-row&#34;&gt;
-                    &lt;a href=&#34;https://MLxDB.github.io/project/#learned-index&#34; class=&#34;subtopic-box&#34;&gt;
+                    &lt;a href=&#34;http://localhost:1313/project/#learned-index&#34; class=&#34;subtopic-box&#34;&gt;
                         ML-enhanced Indexes
                     &lt;/a&gt;
                 &lt;/div&gt;
                 
                 &lt;div class=&#34;grid-row&#34;&gt;
-                    &lt;a href=&#34;https://MLxDB.github.io/project/#query-representation&#34; class=&#34;subtopic-box&#34;&gt;
+                    &lt;a href=&#34;http://localhost:1313/project/#query-representation&#34; class=&#34;subtopic-box&#34;&gt;
                         Query Representation Learning
                     &lt;/a&gt;
                 &lt;/div&gt;
@@ -288,27 +288,27 @@
 &lt;p&gt;&lt;span id=&#34;arcade-system&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;real-time-ai-powered-multimodal-analytics-system-arcade&#34;&gt;Real-time AI-powered Multimodal Analytics System: ARCADE&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/corr25-arcade/&#34;&gt;ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025) &lt;a href=&#34;https://github.com/Jamesyang2333/ARCADE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/corr25-arcade/&#34;&gt;ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025) &lt;a href=&#34;https://github.com/Jamesyang2333/ARCADE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;semantic-queries&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;semantic-queries--data-agent&#34;&gt;Semantic Queries &amp;amp; Data Agent&lt;/h3&gt;
 &lt;p&gt;We build intelligent data agents and systems capable of handling semantic and analytical queries over heterogeneous data sources.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/corr25-fdabench/&#34;&gt;FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025) &lt;a href=&#34;https://github.com/fdabench/FDAbench&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/corr25-fdabench/&#34;&gt;FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025) &lt;a href=&#34;https://github.com/fdabench/FDAbench&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Code]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;hybrid-search&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hybrid-search&#34;&gt;Hybrid Search&lt;/h3&gt;
 &lt;p&gt;We develop efficient indexing and search algorithms to support hybrid queries over vector and relational data.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod25-deg/&#34;&gt;DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/pvldb25-geobloom/&#34;&gt;GeoBloom: Revisiting Lightweight Models for Geographic Information Retrieval.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod25-deg/&#34;&gt;DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/pvldb25-geobloom/&#34;&gt;GeoBloom: Revisiting Lightweight Models for Geographic Information Retrieval.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;lsm-storage&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;multimodal-lsm-storage&#34;&gt;Multimodal LSM Storage&lt;/h3&gt;
 &lt;p&gt;We optimize LSM-tree based storage engines to efficiently manage multimodal data on modern hardware.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod25-next/&#34;&gt;NEXT: A New Secondary Index Framework for LSM-based Data Storage.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod25-camal/&#34;&gt;CAMAL: Optimizing LSM-trees via Active Learning.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod25-next/&#34;&gt;NEXT: A New Secondary Index Framework for LSM-based Data Storage.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod25-camal/&#34;&gt;CAMAL: Optimizing LSM-trees via Active Learning.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;ai4db&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ai4db&#34;&gt;AI4DB&lt;/h2&gt;
@@ -317,25 +317,25 @@
 &lt;h3 id=&#34;query-optimization&#34;&gt;Query Optimization&lt;/h3&gt;
 &lt;p&gt;We explore learning-based query optimization, focusing on cardinality estimation, plan representation, and rewrite systems to surpass traditional optimizers.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/pvldb25-rankpqo/&#34;&gt;RankPQO: Learning-to-Rank for Parametric Query Optimization.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/pvldb25-llm-r2/&#34;&gt;LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod24-lemo/&#34;&gt;Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/pvldb25-rankpqo/&#34;&gt;RankPQO: Learning-to-Rank for Parametric Query Optimization.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/pvldb25-llm-r2/&#34;&gt;LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod24-lemo/&#34;&gt;Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2024)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;learned-index&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ml-enhanced-indexes&#34;&gt;ML-enhanced Indexes&lt;/h3&gt;
 &lt;p&gt;We investigate the design of learned index structures that adapt to data distribution and workload patterns for better efficiency.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod25-bttree/&#34;&gt;BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/corr25-maadvisor/&#34;&gt;MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod24-platon/&#34;&gt;PLATON: Top-down R-tree Packing with Learned Partition Policy.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2024)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/sigmod23-rlr-tree/&#34;&gt;The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod25-bttree/&#34;&gt;BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/corr25-maadvisor/&#34;&gt;MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs.&lt;/a&gt;&lt;/strong&gt; (CoRR 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod24-platon/&#34;&gt;PLATON: Top-down R-tree Packing with Learned Partition Policy.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/sigmod23-rlr-tree/&#34;&gt;The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.&lt;/a&gt;&lt;/strong&gt; (SIGMOD 2023)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span id=&#34;query-representation&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;query-representation-learning&#34;&gt;Query Representation Learning&lt;/h3&gt;
 &lt;p&gt;We study how to effectively represent queries and plans for transfer learning and generalizability.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/pvldb26-tata/&#34;&gt;TATA: An Efficient Framework for Task Transfer in Query Plan Representation.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2026)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://MLxDB.github.io/publication/vldb22-query-former/&#34;&gt;QueryFormer: a tree transformer model for query plan representation.&lt;/a&gt;&lt;/strong&gt; (VLDB 2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/pvldb26-tata/&#34;&gt;TATA: An Efficient Framework for Task Transfer in Query Plan Representation.&lt;/a&gt;&lt;/strong&gt; (PVLDB 2026)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/publication/vldb22-query-former/&#34;&gt;QueryFormer: a tree transformer model for query plan representation.&lt;/a&gt;&lt;/strong&gt; (VLDB 2022)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

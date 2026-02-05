@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiachen Shi | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/jiachen-shi/</link>
-      <atom:link href="https://MLxDB.github.io/author/jiachen-shi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiachen-shi/</link>
+      <atom:link href="http://localhost:1313/author/jiachen-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiachen Shi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Jiachen Shi</title>
-      <link>https://MLxDB.github.io/author/jiachen-shi/</link>
+      <link>http://localhost:1313/author/jiachen-shi/</link>
     </image>
     
     <item>
       <title>ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities</title>
-      <link>https://MLxDB.github.io/publication/corr25-arcade/</link>
+      <link>http://localhost:1313/publication/corr25-arcade/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-arcade/</guid>
+      <guid>http://localhost:1313/publication/corr25-arcade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs</title>
-      <link>https://MLxDB.github.io/publication/corr25-maadvisor/</link>
+      <link>http://localhost:1313/publication/corr25-maadvisor/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-maadvisor/</guid>
+      <guid>http://localhost:1313/publication/corr25-maadvisor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEXT: A New Secondary Index Framework for LSM-based Data Storage</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-next/</link>
+      <link>http://localhost:1313/publication/sigmod25-next/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-next/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-next/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
-      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <link>http://localhost:1313/publication/vldb23-index/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <guid>http://localhost:1313/publication/vldb23-index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,9 +52,9 @@
     
     <item>
       <title>QueryFormer: a tree transformer model for query plan representation</title>
-      <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
+      <link>http://localhost:1313/publication/vldb22-query-former/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb22-query-former/</guid>
+      <guid>http://localhost:1313/publication/vldb22-query-former/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

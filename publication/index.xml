@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Data management and AI</title>
-    <link>https://MLxDB.github.io/publication/</link>
-      <atom:link href="https://MLxDB.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Publications</title>
-      <link>https://MLxDB.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>TATA: An Efficient Framework for Task Transfer in Query Plan Representation</title>
-      <link>https://MLxDB.github.io/publication/pvldb26-tata/</link>
+      <link>http://localhost:1313/publication/pvldb26-tata/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/pvldb26-tata/</guid>
+      <guid>http://localhost:1313/publication/pvldb26-tata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities</title>
-      <link>https://MLxDB.github.io/publication/corr25-arcade/</link>
+      <link>http://localhost:1313/publication/corr25-arcade/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-arcade/</guid>
+      <guid>http://localhost:1313/publication/corr25-arcade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data</title>
-      <link>https://MLxDB.github.io/publication/corr25-fdabench/</link>
+      <link>http://localhost:1313/publication/corr25-fdabench/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-fdabench/</guid>
+      <guid>http://localhost:1313/publication/corr25-fdabench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs</title>
-      <link>https://MLxDB.github.io/publication/corr25-maadvisor/</link>
+      <link>http://localhost:1313/publication/corr25-maadvisor/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-maadvisor/</guid>
+      <guid>http://localhost:1313/publication/corr25-maadvisor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-bttree/</link>
+      <link>http://localhost:1313/publication/sigmod25-bttree/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-bttree/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-bttree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAMAL: Optimizing LSM-trees via Active Learning</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-camal/</link>
+      <link>http://localhost:1313/publication/sigmod25-camal/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-camal/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-camal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-deg/</link>
+      <link>http://localhost:1313/publication/sigmod25-deg/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-deg/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-deg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEXT: A New Secondary Index Framework for LSM-based Data Storage</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-next/</link>
+      <link>http://localhost:1313/publication/sigmod25-next/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-next/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-next/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GeoBloom: Revisiting Lightweight Models for Geographic Information Retrieval</title>
-      <link>https://MLxDB.github.io/publication/pvldb25-geobloom/</link>
+      <link>http://localhost:1313/publication/pvldb25-geobloom/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/pvldb25-geobloom/</guid>
+      <guid>http://localhost:1313/publication/pvldb25-geobloom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</title>
-      <link>https://MLxDB.github.io/publication/pvldb25-llm-r2/</link>
+      <link>http://localhost:1313/publication/pvldb25-llm-r2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/pvldb25-llm-r2/</guid>
+      <guid>http://localhost:1313/publication/pvldb25-llm-r2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RankPQO: Learning-to-Rank for Parametric Query Optimization</title>
-      <link>https://MLxDB.github.io/publication/pvldb25-rankpqo/</link>
+      <link>http://localhost:1313/publication/pvldb25-rankpqo/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/pvldb25-rankpqo/</guid>
+      <guid>http://localhost:1313/publication/pvldb25-rankpqo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning for Databases: Foundations, Paradigms, and Open problems</title>
-      <link>https://MLxDB.github.io/publication/sigmod24-tutorial/</link>
+      <link>http://localhost:1313/publication/sigmod24-tutorial/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod24-tutorial/</guid>
+      <guid>http://localhost:1313/publication/sigmod24-tutorial/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -116,9 +116,9 @@
     
     <item>
       <title>A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies</title>
-      <link>https://MLxDB.github.io/publication/vldb24-evaluation/</link>
+      <link>http://localhost:1313/publication/vldb24-evaluation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb24-evaluation/</guid>
+      <guid>http://localhost:1313/publication/vldb24-evaluation/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -130,18 +130,18 @@
     
     <item>
       <title>Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries</title>
-      <link>https://MLxDB.github.io/publication/sigmod24-lemo/</link>
+      <link>http://localhost:1313/publication/sigmod24-lemo/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod24-lemo/</guid>
+      <guid>http://localhost:1313/publication/sigmod24-lemo/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PLATON: Top-down R-tree Packing with Learned Partition Policy</title>
-      <link>https://MLxDB.github.io/publication/sigmod24-platon/</link>
+      <link>http://localhost:1313/publication/sigmod24-platon/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod24-platon/</guid>
+      <guid>http://localhost:1313/publication/sigmod24-platon/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -153,27 +153,27 @@
     
     <item>
       <title>Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes</title>
-      <link>https://MLxDB.github.io/publication/sigmod24-set/</link>
+      <link>http://localhost:1313/publication/sigmod24-set/</link>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod24-set/</guid>
+      <guid>http://localhost:1313/publication/sigmod24-set/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</link>
+      <link>http://localhost:1313/publication/sigmod23-rlr-tree/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</guid>
+      <guid>http://localhost:1313/publication/sigmod23-rlr-tree/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learned Index Benefits: Machine Learning Based Index Performance Estimation</title>
-      <link>https://MLxDB.github.io/publication/vldb23-index/</link>
+      <link>http://localhost:1313/publication/vldb23-index/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-index/</guid>
+      <guid>http://localhost:1313/publication/vldb23-index/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -185,9 +185,9 @@
     
     <item>
       <title>Towards Designing and Learning Piecewise Space-Filling Curves</title>
-      <link>https://MLxDB.github.io/publication/vldb23-sfc/</link>
+      <link>http://localhost:1313/publication/vldb23-sfc/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-sfc/</guid>
+      <guid>http://localhost:1313/publication/vldb23-sfc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -199,9 +199,9 @@
     
     <item>
       <title>SAM: Database Generation from Query Workloads with Supervised Autoregressive Models</title>
-      <link>https://MLxDB.github.io/publication/sigmod22-sam/</link>
+      <link>http://localhost:1313/publication/sigmod22-sam/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod22-sam/</guid>
+      <guid>http://localhost:1313/publication/sigmod22-sam/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -213,9 +213,9 @@
     
     <item>
       <title>QueryFormer: a tree transformer model for query plan representation</title>
-      <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
+      <link>http://localhost:1313/publication/vldb22-query-former/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb22-query-former/</guid>
+      <guid>http://localhost:1313/publication/vldb22-query-former/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -227,9 +227,9 @@
     
     <item>
       <title>Unsupervised Selectivity Estimation by Integrating Gaussian Mixture Models and an Autoregressive Model</title>
-      <link>https://MLxDB.github.io/publication/edbt22/</link>
+      <link>http://localhost:1313/publication/edbt22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/edbt22/</guid>
+      <guid>http://localhost:1313/publication/edbt22/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -241,9 +241,9 @@
     
     <item>
       <title>A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation</title>
-      <link>https://MLxDB.github.io/publication/sigmod21-uae/</link>
+      <link>http://localhost:1313/publication/sigmod21-uae/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod21-uae/</guid>
+      <guid>http://localhost:1313/publication/sigmod21-uae/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

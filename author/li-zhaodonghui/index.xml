@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LI Zhaodonghui | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/li-zhaodonghui/</link>
-      <atom:link href="https://MLxDB.github.io/author/li-zhaodonghui/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/li-zhaodonghui/</link>
+      <atom:link href="http://localhost:1313/author/li-zhaodonghui/index.xml" rel="self" type="application/rss+xml" />
     <description>LI Zhaodonghui</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://MLxDB.github.io/author/li-zhaodonghui/avatar_hu_a7f9f28f59022aa1.jpeg</url>
+      <url>http://localhost:1313/author/li-zhaodonghui/avatar_hu_a7f9f28f59022aa1.jpeg</url>
       <title>LI Zhaodonghui</title>
-      <link>https://MLxDB.github.io/author/li-zhaodonghui/</link>
+      <link>http://localhost:1313/author/li-zhaodonghui/</link>
     </image>
     
     <item>
       <title>LI Zhaodonghui</title>
-      <link>https://MLxDB.github.io/author/li-zhaodonghui/</link>
+      <link>http://localhost:1313/author/li-zhaodonghui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/author/li-zhaodonghui/</guid>
+      <guid>http://localhost:1313/author/li-zhaodonghui/</guid>
       <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

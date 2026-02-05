@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bin Cui | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/bin-cui/</link>
-      <atom:link href="https://MLxDB.github.io/author/bin-cui/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/bin-cui/</link>
+      <atom:link href="http://localhost:1313/author/bin-cui/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Cui</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Bin Cui</title>
-      <link>https://MLxDB.github.io/author/bin-cui/</link>
+      <link>http://localhost:1313/author/bin-cui/</link>
     </image>
     
     <item>
       <title>Towards Designing and Learning Piecewise Space-Filling Curves</title>
-      <link>https://MLxDB.github.io/publication/vldb23-sfc/</link>
+      <link>http://localhost:1313/publication/vldb23-sfc/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/vldb23-sfc/</guid>
+      <guid>http://localhost:1313/publication/vldb23-sfc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

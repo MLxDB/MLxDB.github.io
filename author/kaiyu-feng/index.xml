@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaiyu Feng | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/kaiyu-feng/</link>
-      <atom:link href="https://MLxDB.github.io/author/kaiyu-feng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/kaiyu-feng/</link>
+      <atom:link href="http://localhost:1313/author/kaiyu-feng/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaiyu Feng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Kaiyu Feng</title>
-      <link>https://MLxDB.github.io/author/kaiyu-feng/</link>
+      <link>http://localhost:1313/author/kaiyu-feng/</link>
     </image>
     
     <item>
       <title>BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-bttree/</link>
+      <link>http://localhost:1313/publication/sigmod25-bttree/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-bttree/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-bttree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</link>
+      <link>http://localhost:1313/publication/sigmod23-rlr-tree/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod23-rlr-tree/</guid>
+      <guid>http://localhost:1313/publication/sigmod23-rlr-tree/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

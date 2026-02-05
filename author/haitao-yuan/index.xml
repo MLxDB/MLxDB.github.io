@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haitao Yuan | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/haitao-yuan/</link>
-      <atom:link href="https://MLxDB.github.io/author/haitao-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/haitao-yuan/</link>
+      <atom:link href="http://localhost:1313/author/haitao-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Haitao Yuan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Haitao Yuan</title>
-      <link>https://MLxDB.github.io/author/haitao-yuan/</link>
+      <link>http://localhost:1313/author/haitao-yuan/</link>
     </image>
     
     <item>
       <title>FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data</title>
-      <link>https://MLxDB.github.io/publication/corr25-fdabench/</link>
+      <link>http://localhost:1313/publication/corr25-fdabench/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-fdabench/</guid>
+      <guid>http://localhost:1313/publication/corr25-fdabench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAAdvisor: Zero-Shot Index Advisor using Multi-Agent LLMs</title>
-      <link>https://MLxDB.github.io/publication/corr25-maadvisor/</link>
+      <link>http://localhost:1313/publication/corr25-maadvisor/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-maadvisor/</guid>
+      <guid>http://localhost:1313/publication/corr25-maadvisor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</title>
-      <link>https://MLxDB.github.io/publication/pvldb25-llm-r2/</link>
+      <link>http://localhost:1313/publication/pvldb25-llm-r2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/pvldb25-llm-r2/</guid>
+      <guid>http://localhost:1313/publication/pvldb25-llm-r2/</guid>
       <description></description>
     </item>
     

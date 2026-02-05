@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Zhang | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/rui-zhang/</link>
-      <atom:link href="https://MLxDB.github.io/author/rui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/rui-zhang/</link>
+      <atom:link href="http://localhost:1313/author/rui-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Rui Zhang</title>
-      <link>https://MLxDB.github.io/author/rui-zhang/</link>
+      <link>http://localhost:1313/author/rui-zhang/</link>
     </image>
     
     <item>
       <title>BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-bttree/</link>
+      <link>http://localhost:1313/publication/sigmod25-bttree/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-bttree/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-bttree/</guid>
       <description></description>
     </item>
     

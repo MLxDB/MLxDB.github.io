@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zihao Yu | Data management and AI</title>
-    <link>https://MLxDB.github.io/author/zihao-yu/</link>
-      <atom:link href="https://MLxDB.github.io/author/zihao-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zihao-yu/</link>
+      <atom:link href="http://localhost:1313/author/zihao-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zihao Yu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Zihao Yu</title>
-      <link>https://MLxDB.github.io/author/zihao-yu/</link>
+      <link>http://localhost:1313/author/zihao-yu/</link>
     </image>
     
     <item>
       <title>ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities</title>
-      <link>https://MLxDB.github.io/publication/corr25-arcade/</link>
+      <link>http://localhost:1313/publication/corr25-arcade/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/corr25-arcade/</guid>
+      <guid>http://localhost:1313/publication/corr25-arcade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAMAL: Optimizing LSM-trees via Active Learning</title>
-      <link>https://MLxDB.github.io/publication/sigmod25-camal/</link>
+      <link>http://localhost:1313/publication/sigmod25-camal/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/publication/sigmod25-camal/</guid>
+      <guid>http://localhost:1313/publication/sigmod25-camal/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current | Data management and AI</title>
-    <link>https://MLxDB.github.io/tag/current/</link>
-      <atom:link href="https://MLxDB.github.io/tag/current/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/current/</link>
+      <atom:link href="http://localhost:1313/tag/current/index.xml" rel="self" type="application/rss+xml" />
     <description>Current</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
       <title>Current</title>
-      <link>https://MLxDB.github.io/tag/current/</link>
+      <link>http://localhost:1313/tag/current/</link>
     </image>
     
     <item>
       <title>SAM</title>
-      <link>https://MLxDB.github.io/project/sam/</link>
+      <link>http://localhost:1313/project/sam/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://MLxDB.github.io/project/sam/</guid>
+      <guid>http://localhost:1313/project/sam/</guid>
       <description>
 
 &lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
