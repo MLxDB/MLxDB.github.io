@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB4AI | Data management and AI</title>
+    <link>https://MLxDB.github.io/project/db4ai/</link>
+      <atom:link href="https://MLxDB.github.io/project/db4ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>DB4AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <title>DB4AI</title>
+      <link>https://MLxDB.github.io/project/db4ai/</link>
+    </image>
+    
+  </channel>
+</rss>

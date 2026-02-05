@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Zhao | Data management and AI</title>
+    <link>https://MLxDB.github.io/author/yue-zhao/</link>
+      <atom:link href="https://MLxDB.github.io/author/yue-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MLxDB.github.io/media/icon_hu_a0bbf7bd89a579de.png</url>
+      <title>Yue Zhao</title>
+      <link>https://MLxDB.github.io/author/yue-zhao/</link>
+    </image>
+    
+    <item>
+      <title>TATA: An Efficient Framework for Task Transfer in Query Plan Representation</title>
+      <link>https://MLxDB.github.io/publication/pvldb26-tata/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb26-tata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankPQO: Learning-to-Rank for Parametric Query Optimization</title>
+      <link>https://MLxDB.github.io/publication/pvldb25-rankpqo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/pvldb25-rankpqo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Databases: Foundations, Paradigms, and Open problems</title>
+      <link>https://MLxDB.github.io/publication/sigmod24-tutorial/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/sigmod24-tutorial/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies</title>
+      <link>https://MLxDB.github.io/publication/vldb24-evaluation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb24-evaluation/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QueryFormer: a tree transformer model for query plan representation</title>
+      <link>https://MLxDB.github.io/publication/vldb22-query-former/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/publication/vldb22-query-former/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

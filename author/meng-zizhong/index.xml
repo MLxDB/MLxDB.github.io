@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MENG Zizhong | Data management and AI</title>
+    <link>https://MLxDB.github.io/author/meng-zizhong/</link>
+      <atom:link href="https://MLxDB.github.io/author/meng-zizhong/index.xml" rel="self" type="application/rss+xml" />
+    <description>MENG Zizhong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://MLxDB.github.io/author/meng-zizhong/avatar_hu_3228b325e14c2679.jpeg</url>
+      <title>MENG Zizhong</title>
+      <link>https://MLxDB.github.io/author/meng-zizhong/</link>
+    </image>
+    
+    <item>
+      <title>MENG Zizhong</title>
+      <link>https://MLxDB.github.io/author/meng-zizhong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/author/meng-zizhong/</guid>
+      <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

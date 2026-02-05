@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WANG Ziting | Data management and AI</title>
+    <link>https://MLxDB.github.io/author/wang-ziting/</link>
+      <atom:link href="https://MLxDB.github.io/author/wang-ziting/index.xml" rel="self" type="application/rss+xml" />
+    <description>WANG Ziting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://MLxDB.github.io/author/wang-ziting/avatar_hu_b6e6570aa0414ea2.jpg</url>
+      <title>WANG Ziting</title>
+      <link>https://MLxDB.github.io/author/wang-ziting/</link>
+    </image>
+    
+    <item>
+      <title>WANG Ziting</title>
+      <link>https://MLxDB.github.io/author/wang-ziting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MLxDB.github.io/author/wang-ziting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
