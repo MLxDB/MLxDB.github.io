@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories | Data management and AI</title>
-    <link>http://localhost:1313/categories/</link>
-      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_a0bbf7bd89a579de.png</url>
-      <title>Categories</title>
-      <link>http://localhost:1313/categories/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories | Data management and AI</title><link>https://MLxDB.github.io/categories/</link><atom:link href="https://MLxDB.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><description>Categories</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://MLxDB.github.io/media/icon_hu977496d800f0d840e643bbe9854d61d3_17236_512x512_fill_lanczos_center_3.png</url><title>Categories</title><link>https://MLxDB.github.io/categories/</link></image></channel></rss>
