@@ -17,7 +17,7 @@ design:
 
 cta:
   url: 'https://github.com/MLxDB'
-  label: Github Page
+  label: GitHub
   icon_pack: fab
   icon: github
 ---

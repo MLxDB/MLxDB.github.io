@@ -1,48 +1,50 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# MLxDB.github.io
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+Source for <https://mlxdb.github.io>. Built with Hugo + the Wowchemy research-group theme. Pushes to `main` are auto-built and deployed by GitHub Actions (`.github/workflows/hugo.yml`).
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## How to edit
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+```bash
+git pull                 # sync first
+# edit files under content/
+git add . && git commit -m "..."
+git push                 # Actions builds and deploys, ~1-2 min
+```
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+No local Hugo install needed. Watch deploys at the **Actions** tab.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+### Where things live
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+| Want to change | File |
+|---|---|
+| Add a publication | `content/publication/<id>/index.md` (+ optional `cite.bib`, `featured.jpg`) |
+| Add a news post | `content/post/<yy-mm-dd-title>/index.md` |
+| Add a member | `content/authors/<Name>/_index.md` + `avatar.jpg` |
+| Reorder members in a group | add `weight: <number>` in their `_index.md` (smaller = earlier) |
+| Home page copy | `content/home/welcome.md`, `intro.md`, `news.md` |
+| Project page | `content/project/<name>/_index.md` |
+| Top nav menu | `config/_default/menus.yaml` |
+| Site title, baseURL, etc. | `config/_default/config.yaml`, `params.yaml` |
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+### Local preview (optional)
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/.github/contributing.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+Only needed if you want to see the result before pushing:
 
-## We ask you, humbly, to support this open source movement
+```bash
+hugo server                # http://localhost:1313
+```
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Requires Hugo extended `v0.110.0` and Go (matches the version pinned in the workflow).
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## Branches
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+- `main` — Hugo source, what you edit. Default branch.
+- `master` — frozen snapshot of the old hand-deployed static site. Kept for history; don't push to it.
 
-## Demo credits
+## Deployment
 
-Please replace the demo images with your own.
+GitHub Pages is configured with **Source: GitHub Actions**. The workflow (`hugo.yml`) builds with Hugo and deploys via `actions/deploy-pages`. The `github-pages` environment must allow `main` (Settings → Environments → github-pages → Deployment branches).
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+---
+
+Theme: [wowchemy/starter-hugo-research-group](https://github.com/wowchemy/starter-hugo-research-group).
