@@ -1,0 +1,11 @@
+---
+title: Paper on learned R-tree packing accepted at SIGMOD 2024
+date: 2023-08-26
+image:
+  focal_point: 'top'
+---
+
+Congratulations to Jingyi for publishing the paper "PLATON: Top-down R-tree Packing with Learned Partition Policy" at SIGMOD 2024.
+<!--more-->
+
+The exponential growth of spatial data poses new challenges to the performance of spatial databases. Spatial indexes like R-tree greatly accelerate the query performance and can be effectively constructed through packing, i.e., loading all data into the index at once. However, existing R-tree packing methods rely on a set of fixed heuristic rules, which may not be suitable for different data distributions and workload patterns. To address the limitations of existing R-tree packing methods, we propose PLATON, a top-down R-tree packing method with learned partition policy that explicitly optimizes the query performance with regard to the given data and workload instance. We develop a learned partition policy based on Monte Carlo Tree Search and carefully make design choices for the MCTS exploration strategy and simulation strategy to improve algorithm convergence. We propose a divide and conquer strategy and two optimization techniques, early termination and level-wise sampling, to drastically reduce the MCTS algorithm’s time complexity and make it a linear-time algorithm. Experiments on both synthetic and real-world datasets demonstrate the superior performance of PLATON over existing R-tree variants and recently proposed learned/workload-aware spatial indexes.

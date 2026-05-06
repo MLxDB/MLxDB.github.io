@@ -1,0 +1,34 @@
+/* Custom CSS to increase content width */
+
+/* Force container to be wider on large screens */
+@media (min-width: 1200px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 96% !important;
+        /* Use percentage for responsiveness and effectively full width */
+        width: 96% !important;
+    }
+}
+
+/* Ensure specific Wowchemy wrappers also respect the width */
+.universal-wrapper,
+.article-container,
+.page-header .container {
+    max-width: 96% !important;
+    width: 96% !important;
+}
+
+/* Adjust navbar alignment if needed */
+.navbar-nav {
+    /* Ensure nav items don't get squashed if they are centered */
+    width: 100%;
+}
+
+/* Optional: If using the 'minimal' theme, you might want to ensure the body content uses this space */
+.page-body {
+    width: 100%;
+}
