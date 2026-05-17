@@ -38,10 +38,10 @@ We design database systems to better support AI applications and workloads.
 <span id="semantic-queries"></span>
 #### 3. Semantic Queries & Data Agent
 
+- **[FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.]({{< ref "publication/kdd26-fdabench" >}})**
+  Ziting Wang, Shize Zhang, Haitao Yuan, Jinwei Zhu, Wei Dong, Gao Cong.
+  *KDD 2026*.
+
 - **[CARROT: A Learned Cost-Constrained Retrieval Optimization System for RAG.]({{< ref "publication/icde26-carrot" >}})**
   Ziting Wang, Haitao Yuan, Wei Dong, Gao Cong, Feifei Li.
   *ICDE 2026*.
-
-- **[FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.]({{< ref "publication/corr25-fdabench" >}})**
-  Ziting Wang, Shize Zhang, Haitao Yuan, Jinwei Zhu, Shifu Li, Wei Dong, Gao Cong.
-  *CoRR abs/2509.02473 (2025)*.
