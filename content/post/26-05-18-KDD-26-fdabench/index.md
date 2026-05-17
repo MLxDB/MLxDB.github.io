@@ -1,6 +1,6 @@
 ---
 title: Paper on Benchmarking Data Agents over Heterogeneous Data accepted at KDD 2026
-date: 2026-05-18
+date: 2026-05-17
 tags:
   - Acceptance
 image:

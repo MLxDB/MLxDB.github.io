@@ -7,7 +7,7 @@ authors:
   - Jinwei Zhu
   - Wei Dong
   - Gao Cong
-date: '2026-08-09T00:00:00Z'
+date: '2026-05-17T00:00:00Z'
 publication: 'KDD 2026'
 publication_types: ['1']
 abstract: "The growing demand for data-driven decision-making has created an urgent need for data agents that can reason over heterogeneous data (databases, documents, web content, images, videos, and audio) to answer complex analytical queries. However, evaluating such agents remains challenging: existing benchmarks often focus on isolated agent capabilities or limited data modalities, lacking comprehensive coverage of heterogeneous data and rigorous evaluation across diverse data agent architectures. To address these challenges, we present FDABench, a benchmark for evaluating data agents' reasoning ability over heterogeneous data in analytical scenarios. Our contributions are threefold: (1) A comprehensive benchmark of 2,007 tasks spanning six data modalities with a unified, multi-granularity evaluation framework. (2) We design PUDDING, an agentic dataset construction framework that leverages LLM generation with iterative expert validation for reliable and scalable benchmark construction. (3) Extensive experiments on diverse data agent architectures, revealing key insights and guidelines for future data agent development. Our data and source code are released at https://github.com/fdabench/FDAbench."
