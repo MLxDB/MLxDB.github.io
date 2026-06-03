@@ -38,6 +38,10 @@ We design database systems to better support AI applications and workloads.
 <span id="semantic-queries"></span>
 #### 3. Semantic Queries & Data Agent
 
+- **[Demonstrating TOFFEE: A Learned System for Synthesizing Data Agent Trajectories at Scale.]({{< ref "publication/pvldb26-toffee" >}})**
+  Ziting Wang, Yin Li, Zuhao Yang, Xiuchang Li, Jiale Bai, Gao Cong.
+  *VLDB 2026 (Demonstration)*.
+
 - **[FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.]({{< ref "publication/kdd26-fdabench" >}})**
   Ziting Wang, Shize Zhang, Haitao Yuan, Jinwei Zhu, Wei Dong, Gao Cong.
   *KDD 2026*.
