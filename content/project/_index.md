@@ -26,6 +26,7 @@ We design next-generation data systems tailored for AI applications, supporting 
 <span id="arcade-system"></span>
 ### Real-time AI-powered Multimodal Analytics System: ARCADE
 - **[ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.]({{< ref "publication/icde26-arcade" >}})** (ICDE 2026) [[Code]](https://github.com/Jamesyang2333/ARCADE)
+- **[ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.]({{< ref "publication/pvldb26-arcade-demo" >}})** (VLDB 2026 Demonstration) [[Code]](https://github.com/Jamesyang2333/ARCADE)
 
 <span id="semantic-queries"></span>
 ### Semantic Queries & Data Agent
