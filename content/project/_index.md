@@ -30,6 +30,7 @@ We design next-generation data systems tailored for AI applications, supporting 
 <span id="semantic-queries"></span>
 ### Semantic Queries & Data Agent
 We build intelligent data agents and systems capable of handling semantic and analytical queries over heterogeneous data sources.
+- **[Demonstrating TOFFEE: A Learned System for Synthesizing Data Agent Trajectories at Scale.]({{< ref "publication/pvldb26-toffee" >}})** (VLDB 2026 Demonstration)
 - **[FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.]({{< ref "publication/kdd26-fdabench" >}})** (KDD 2026) [[Code]](https://github.com/fdabench/FDAbench)
 - **[CARROT: A Learned Cost-Constrained Retrieval Optimization System for RAG.]({{< ref "publication/icde26-carrot" >}})** (ICDE 2026) [[Code]](https://github.com/wang0702/CARROT)
 
